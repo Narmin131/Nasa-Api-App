@@ -52,7 +52,7 @@ class Navbar extends Component {
   return (
     <>
     <div>
-        <nav className="flex items-center justify-between  w-full bg-white shadow p-2 dark:bg-gray-800">
+        <nav className="flex items-center justify-between w-full  shadow p-2 dark:bg-gray-800">
           <div className="container-fluid w-full flex flex-wrap items-center justify-between px-6">
             <div className="container-fluid flex items-center justify-between w-full sm:flex-row md:flex-row lg:flex-row flex-col">
               <h1 className="text-xl text-white pr-2 font-bold text-center" >NASA's Astronomy Picture of the Day</h1>
